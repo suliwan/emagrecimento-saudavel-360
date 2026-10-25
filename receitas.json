@@ -1,0 +1,2340 @@
+[
+ {
+  "id": 1,
+  "nome": "Mingau de Aveia com Banana e Canela",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1/2 xícara de aveia em flocos",
+   "1 xícara de leite (ou bebida vegetal)",
+   "1 banana amassada",
+   "1 pitada de canela em pó",
+   "1 colher (chá) de mel (opcional)"
+  ],
+  "preparo": [
+   "Aqueça o leite em fogo baixo e adicione a aveia.",
+   "Cozinhe por 5 minutos, mexendo sempre, até engrossar.",
+   "Misture a banana amassada e a canela.",
+   "Sirva morno, com mel a gosto."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "1 porção",
+  "tempo": 10,
+  "alergenos": [
+   "gluten",
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 2,
+  "nome": "Omelete de Claras com Espinafre e Tomate",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "4 claras de ovo",
+   "1 punhado de folhas de espinafre",
+   "1/2 tomate picado",
+   "Sal e pimenta a gosto",
+   "1 fio de azeite"
+  ],
+  "preparo": [
+   "Bata levemente as claras com sal e pimenta.",
+   "Aqueça o azeite em frigideira antiaderente e refogue o espinafre e o tomate por 1 minuto.",
+   "Adicione as claras e cozinhe em fogo baixo até firmar.",
+   "Dobre ao meio e sirva."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "1 porção",
+  "tempo": 10,
+  "alergenos": [
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 3,
+  "nome": "Panqueca de Banana e Aveia (2 ingredientes)",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1 banana madura",
+   "2 ovos",
+   "1 colher (sopa) de aveia (opcional)",
+   "Canela a gosto"
+  ],
+  "preparo": [
+   "Amasse a banana e misture com os ovos e a aveia.",
+   "Despeje pequenas porções em frigideira antiaderente aquecida.",
+   "Doure dos dois lados em fogo baixo.",
+   "Polvilhe canela e sirva."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "1 porção",
+  "tempo": 10,
+  "alergenos": [
+   "gluten",
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 4,
+  "nome": "Vitamina de Mamão com Aveia",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1 fatia grande de mamão",
+   "1 copo de leite ou iogurte natural",
+   "1 colher (sopa) de aveia",
+   "1 colher (chá) de mel"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes no liquidificador até ficar homogêneo.",
+   "Sirva gelado."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [
+   "gluten",
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 5,
+  "nome": "Torrada Integral com Abacate e Ovo Pochê",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "2 fatias de pão integral",
+   "1/2 abacate",
+   "1 ovo",
+   "Suco de limão",
+   "Sal, pimenta e flocos de pimenta a gosto"
+  ],
+  "preparo": [
+   "Toste as fatias de pão.",
+   "Amasse o abacate com limão, sal e pimenta e espalhe sobre as torradas.",
+   "Escalfe o ovo em água fervente com um fio de vinagre por 3 minutos.",
+   "Coloque o ovo sobre a torrada e finalize com flocos de pimenta."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "1 porção",
+  "tempo": 15,
+  "alergenos": [
+   "gluten",
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 6,
+  "nome": "Iogurte Grego com Granola e Frutas Vermelhas",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1 pote de iogurte grego natural",
+   "3 colheres (sopa) de granola sem açúcar",
+   "1/2 xícara de morangos e mirtilos",
+   "Mel a gosto"
+  ],
+  "preparo": [
+   "Coloque o iogurte em uma tigela.",
+   "Adicione a granola e as frutas por cima.",
+   "Regue com mel e sirva imediatamente."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [
+   "gluten",
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 7,
+  "nome": "Panqueca Americana Fit de Banana",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1 xícara de farinha de aveia",
+   "1 banana amassada",
+   "1 ovo",
+   "3/4 xícara de leite",
+   "1 colher (chá) de fermento",
+   "Canela a gosto"
+  ],
+  "preparo": [
+   "Misture todos os ingredientes até formar massa homogênea.",
+   "Frite pequenas porções em frigideira antiaderente sem óleo.",
+   "Vire quando aparecerem bolhas na superfície.",
+   "Sirva com frutas frescas."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "2 porções",
+  "tempo": 15,
+  "alergenos": [
+   "gluten",
+   "lactose",
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 8,
+  "nome": "Smoothie Bowl de Frutas Vermelhas",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1 xícara de frutas vermelhas congeladas",
+   "1 banana congelada",
+   "1/2 xícara de iogurte natural",
+   "Granola, sementes de chia e coco ralado para decorar"
+  ],
+  "preparo": [
+   "Bata as frutas congeladas com o iogurte até obter consistência cremosa e espessa.",
+   "Transfira para uma tigela.",
+   "Decore com granola, chia e coco ralado."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "1 porção",
+  "tempo": 10,
+  "alergenos": [
+   "gluten",
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 9,
+  "nome": "Tapioca com Queijo Branco e Orégano",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "3 colheres (sopa) de goma de tapioca hidratada",
+   "2 fatias de queijo branco",
+   "Orégano a gosto"
+  ],
+  "preparo": [
+   "Espalhe a goma de tapioca em frigideira antiaderente quente.",
+   "Quando firmar, adicione o queijo e o orégano.",
+   "Dobre ao meio e sirva quente."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "1 porção",
+  "tempo": 10,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 10,
+  "nome": "Overnight Oats com Cacau e Pasta de Amendoim",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1/2 xícara de aveia em flocos",
+   "1 xícara de leite ou bebida vegetal",
+   "1 colher (sopa) de cacau em pó",
+   "1 colher (chá) de pasta de amendoim",
+   "Mel a gosto"
+  ],
+  "preparo": [
+   "Misture todos os ingredientes em um pote com tampa.",
+   "Leve à geladeira e deixe descansar durante a noite.",
+   "Sirva gelado pela manhã, com frutas se desejar."
+  ],
+  "tempo_texto": "5 min + descanso noturno",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [
+   "gluten",
+   "lactose",
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 11,
+  "nome": "Ovos Mexidos com Cogumelos e Cebolinha",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "2 ovos",
+   "1/2 xícara de cogumelos fatiados",
+   "1 colher (sopa) de cebolinha picada",
+   "1 fio de azeite",
+   "Sal e pimenta a gosto"
+  ],
+  "preparo": [
+   "Refogue os cogumelos no azeite até dourar.",
+   "Adicione os ovos batidos e mexa em fogo baixo até cozinhar.",
+   "Finalize com cebolinha, sal e pimenta."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "1 porção",
+  "tempo": 10,
+  "alergenos": [
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 12,
+  "nome": "Bowl de Iogurte com Banana e Sementes de Chia",
+  "categoria": "Café da Manhã",
+  "ingredientes": [
+   "1 copo de iogurte natural",
+   "1 banana fatiada",
+   "1 colher (sopa) de sementes de chia",
+   "Canela a gosto"
+  ],
+  "preparo": [
+   "Coloque o iogurte em uma tigela.",
+   "Adicione a banana fatiada e as sementes de chia.",
+   "Polvilhe canela e sirva."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 13,
+  "nome": "Suco Verde Detox (Couve, Maçã e Limão)",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "2 folhas de couve",
+   "1 maçã verde",
+   "Suco de 1/2 limão",
+   "1 copo de água",
+   "Gengibre a gosto"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes no liquidificador.",
+   "Coe se preferir e sirva gelado."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 14,
+  "nome": "Smoothie de Manga e Cenoura",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "1 manga madura",
+   "1 cenoura pequena picada",
+   "1 copo de suco de laranja",
+   "Gelo"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes no liquidificador até ficar cremoso.",
+   "Sirva imediatamente."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 15,
+  "nome": "Suco de Melancia com Hortelã",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "2 xícaras de melancia picada",
+   "Folhas de hortelã",
+   "Gelo a gosto"
+  ],
+  "preparo": [
+   "Bata a melancia com as folhas de hortelã.",
+   "Sirva com gelo."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 16,
+  "nome": "Smoothie Verde de Abacate e Espinafre",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "1/2 abacate",
+   "1 punhado de espinafre",
+   "1 banana",
+   "1 copo de bebida vegetal",
+   "Mel a gosto"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes até obter creme homogêneo.",
+   "Sirva gelado."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 17,
+  "nome": "Suco de Beterraba com Laranja e Gengibre",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "1 beterraba pequena",
+   "2 laranjas espremidas",
+   "1 pedaço pequeno de gengibre"
+  ],
+  "preparo": [
+   "Bata a beterraba crua com o suco de laranja e o gengibre.",
+   "Coe e sirva."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 18,
+  "nome": "Smoothie de Morango e Banana",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "1 xícara de morangos",
+   "1 banana",
+   "1 copo de leite ou iogurte",
+   "Gelo"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes até ficar cremoso.",
+   "Sirva imediatamente."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 19,
+  "nome": "Suco de Abacaxi com Hortelã e Gengibre",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "2 fatias de abacaxi",
+   "Folhas de hortelã",
+   "1 pedaço pequeno de gengibre",
+   "Água a gosto"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes no liquidificador.",
+   "Coe e sirva gelado."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 20,
+  "nome": "Smoothie de Mirtilo e Aveia",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "1 xícara de mirtilos congelados",
+   "1 colher (sopa) de aveia",
+   "1 copo de iogurte natural"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes até ficar cremoso.",
+   "Sirva imediatamente."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [
+   "gluten",
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 21,
+  "nome": "Suco de Limão com Chia (Água Saborizada Funcional)",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "Suco de 1 limão",
+   "1 colher (sopa) de sementes de chia",
+   "1 copo de água",
+   "Adoçante a gosto"
+  ],
+  "preparo": [
+   "Misture todos os ingredientes.",
+   "Deixe descansar 10 minutos para a chia hidratar.",
+   "Sirva gelado."
+  ],
+  "tempo_texto": "5 min + descanso",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 22,
+  "nome": "Smoothie Tropical de Manga e Maracujá",
+  "categoria": "Smoothies e Sucos",
+  "ingredientes": [
+   "1 manga",
+   "Polpa de 1 maracujá",
+   "1 copo de água de coco"
+  ],
+  "preparo": [
+   "Bata a manga com a água de coco.",
+   "Misture a polpa do maracujá por último.",
+   "Sirva gelado."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 23,
+  "nome": "Salada de Quinoa com Legumes Assados",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1 xícara de quinoa cozida",
+   "1 abobrinha em cubos",
+   "1 pimentão em cubos",
+   "1 cebola roxa fatiada",
+   "Azeite, sal e ervas a gosto"
+  ],
+  "preparo": [
+   "Asse os legumes temperados com azeite e sal a 200°C por 20 minutos.",
+   "Misture os legumes assados com a quinoa cozida.",
+   "Ajuste o sal e sirva morna ou fria."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "2 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 24,
+  "nome": "Salada Caprese com Tomate e Muçarela de Búfala",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "2 tomates fatiados",
+   "200g de muçarela de búfala fatiada",
+   "Folhas de manjericão",
+   "Azeite extravirgem",
+   "Sal e pimenta"
+  ],
+  "preparo": [
+   "Intercale fatias de tomate e muçarela em um prato.",
+   "Distribua as folhas de manjericão.",
+   "Regue com azeite e tempere com sal e pimenta."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "2 porções",
+  "tempo": 10,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 25,
+  "nome": "Salada de Grão-de-Bico com Pepino e Hortelã",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1 xícara de grão-de-bico cozido",
+   "1 pepino picado",
+   "Folhas de hortelã picadas",
+   "Suco de 1 limão",
+   "Azeite, sal e pimenta"
+  ],
+  "preparo": [
+   "Misture o grão-de-bico com o pepino e a hortelã.",
+   "Tempere com limão, azeite, sal e pimenta.",
+   "Sirva fria."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "2 porções",
+  "tempo": 15,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 26,
+  "nome": "Salada Verde com Morango e Nozes",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "Folhas verdes variadas",
+   "1 xícara de morangos fatiados",
+   "1/4 xícara de nozes picadas",
+   "Azeite, vinagre balsâmico e mel"
+  ],
+  "preparo": [
+   "Monte a base de folhas em um prato.",
+   "Distribua os morangos e as nozes por cima.",
+   "Misture azeite, vinagre e mel e regue a salada."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "2 porções",
+  "tempo": 10,
+  "alergenos": [
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 27,
+  "nome": "Salada de Atum com Feijão Branco",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1 lata de atum em água",
+   "1 xícara de feijão branco cozido",
+   "1/2 cebola roxa fatiada",
+   "Salsinha picada",
+   "Azeite e limão"
+  ],
+  "preparo": [
+   "Misture o atum escorrido com o feijão branco e a cebola.",
+   "Tempere com azeite, limão, sal e salsinha.",
+   "Sirva gelada."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "2 porções",
+  "tempo": 10,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 28,
+  "nome": "Salada Coleslaw Leve (Repolho e Cenoura)",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1/2 repolho fatiado fino",
+   "2 cenouras raladas",
+   "2 colheres (sopa) de iogurte natural",
+   "1 colher (chá) de mostarda",
+   "Suco de limão, sal e pimenta"
+  ],
+  "preparo": [
+   "Misture o repolho e a cenoura em uma tigela.",
+   "Prepare o molho com iogurte, mostarda, limão, sal e pimenta.",
+   "Envolva o molho na salada e deixe descansar 10 minutos antes de servir."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "4 porções",
+  "tempo": 15,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 29,
+  "nome": "Salada de Lentilha com Tomate Seco e Rúcula",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1 xícara de lentilha cozida",
+   "1 punhado de rúcula",
+   "Tomates secos picados",
+   "Azeite e vinagre balsâmico"
+  ],
+  "preparo": [
+   "Misture a lentilha com a rúcula e os tomates secos.",
+   "Tempere com azeite e vinagre.",
+   "Sirva em temperatura ambiente."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "2 porções",
+  "tempo": 20,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 30,
+  "nome": "Salada Caesar Fit com Frango Grelhado",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1 peito de frango grelhado fatiado",
+   "Alface romana",
+   "2 colheres (sopa) de iogurte natural",
+   "1 colher (chá) de mostarda",
+   "Parmesão ralado, limão e alho"
+  ],
+  "preparo": [
+   "Grelhe o frango temperado e fatie.",
+   "Prepare o molho misturando iogurte, mostarda, alho e limão.",
+   "Monte a alface com o frango, regue com o molho e finalize com parmesão."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "2 porções",
+  "tempo": 25,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 31,
+  "nome": "Salada de Beterraba com Queijo de Cabra",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "2 beterrabas cozidas e fatiadas",
+   "50g de queijo de cabra",
+   "Rúcula",
+   "Nozes picadas",
+   "Azeite e mel"
+  ],
+  "preparo": [
+   "Cozinhe as beterrabas até ficarem macias e fatie.",
+   "Monte com a rúcula, o queijo de cabra e as nozes.",
+   "Regue com azeite e um fio de mel."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "2 porções",
+  "tempo": 35,
+  "alergenos": [
+   "lactose",
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 32,
+  "nome": "Salada Tabule de Couve-Flor (Low Carb)",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1 couve-flor triturada tipo arroz",
+   "Salsinha e hortelã picadas",
+   "1 tomate picado",
+   "Suco de limão e azeite"
+  ],
+  "preparo": [
+   "Refogue rapidamente a couve-flor triturada ou use crua.",
+   "Misture com o tomate, salsinha e hortelã.",
+   "Tempere com limão e azeite e sirva gelada."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "2 porções",
+  "tempo": 20,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 33,
+  "nome": "Salada Mediterrânea com Pepino, Azeitona e Feta",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "1 pepino picado",
+   "1 tomate picado",
+   "Azeitonas pretas",
+   "Queijo feta em cubos",
+   "Orégano e azeite"
+  ],
+  "preparo": [
+   "Misture o pepino, tomate e azeitonas em uma tigela.",
+   "Adicione o queijo feta por cima.",
+   "Tempere com orégano e azeite."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "2 porções",
+  "tempo": 10,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 34,
+  "nome": "Salada Morna de Batata-Doce com Rúcula",
+  "categoria": "Saladas",
+  "ingredientes": [
+   "2 batatas-doces em cubos assadas",
+   "Rúcula",
+   "Sementes de girassol",
+   "Azeite e vinagre balsâmico"
+  ],
+  "preparo": [
+   "Asse os cubos de batata-doce temperados com azeite a 200°C por 25 minutos.",
+   "Monte sobre a rúcula ainda morna.",
+   "Finalize com sementes de girassol e vinagre balsâmico."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "2 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 35,
+  "nome": "Sopa de Abóbora com Gengibre",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "1/2 abóbora em cubos",
+   "1 cebola picada",
+   "1 pedaço de gengibre",
+   "Caldo de legumes",
+   "Azeite"
+  ],
+  "preparo": [
+   "Refogue a cebola e o gengibre no azeite.",
+   "Adicione a abóbora e o caldo e cozinhe até amaciar, cerca de 20 minutos.",
+   "Bata tudo até formar creme e sirva quente."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "4 porções",
+  "tempo": 35,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 36,
+  "nome": "Caldo Verde Leve (Couve e Batata)",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "3 batatas",
+   "1 cebola",
+   "2 dentes de alho",
+   "Folhas de couve fatiadas finas",
+   "Azeite"
+  ],
+  "preparo": [
+   "Cozinhe as batatas com cebola e alho em água até amaciar.",
+   "Bata até formar creme homogêneo e volte à panela.",
+   "Adicione a couve fatiada e cozinhe por mais 5 minutos."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "4 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 37,
+  "nome": "Sopa de Lentilha com Legumes",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "1 xícara de lentilha",
+   "1 cenoura picada",
+   "1 talo de aipo picado",
+   "1 cebola picada",
+   "Caldo de legumes, cominho"
+  ],
+  "preparo": [
+   "Refogue a cebola, cenoura e aipo.",
+   "Adicione a lentilha e o caldo e cozinhe por 25 minutos.",
+   "Tempere com cominho e sirva quente."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "4 porções",
+  "tempo": 35,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 38,
+  "nome": "Creme de Brócolis",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "1 maço de brócolis",
+   "1 batata pequena",
+   "1 cebola",
+   "Caldo de legumes",
+   "Azeite"
+  ],
+  "preparo": [
+   "Cozinhe o brócolis, a batata e a cebola no caldo até amaciar.",
+   "Bata tudo até formar creme.",
+   "Ajuste o tempero e sirva quente."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "4 porções",
+  "tempo": 25,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 39,
+  "nome": "Sopa de Feijão com Legumes",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "2 xícaras de feijão cozido",
+   "1 cenoura picada",
+   "1 tomate picado",
+   "Caldo de legumes",
+   "Cheiro-verde"
+  ],
+  "preparo": [
+   "Refogue a cenoura e o tomate.",
+   "Adicione o feijão cozido e o caldo, cozinhe por 15 minutos.",
+   "Bata parcialmente para engrossar e finalize com cheiro-verde."
+  ],
+  "tempo_texto": "30 min (com feijão pronto)",
+  "rendimento": "4 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 40,
+  "nome": "Canja de Frango Leve",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "1 peito de frango",
+   "1/2 xícara de arroz",
+   "1 cenoura picada",
+   "Caldo de legumes",
+   "Cheiro-verde"
+  ],
+  "preparo": [
+   "Cozinhe o frango no caldo até ficar macio e desfie.",
+   "Adicione o arroz e a cenoura e cozinhe até o arroz ficar macio.",
+   "Volte o frango desfiado à panela e finalize com cheiro-verde."
+  ],
+  "tempo_texto": "40 min",
+  "rendimento": "4 porções",
+  "tempo": 40,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 41,
+  "nome": "Sopa de Ervilha com Hortelã",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "2 xícaras de ervilha",
+   "1 cebola",
+   "Caldo de legumes",
+   "Folhas de hortelã"
+  ],
+  "preparo": [
+   "Refogue a cebola e adicione a ervilha e o caldo.",
+   "Cozinhe por 15 minutos até amaciar.",
+   "Bata com as folhas de hortelã até formar creme."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "4 porções",
+  "tempo": 25,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 42,
+  "nome": "Sopa Minestrone",
+  "categoria": "Sopas",
+  "ingredientes": [
+   "1 cenoura picada",
+   "1 abobrinha picada",
+   "1/2 xícara de feijão cozido",
+   "1/2 xícara de macarrão integral",
+   "Tomate pelado, caldo de legumes"
+  ],
+  "preparo": [
+   "Refogue os legumes e adicione o tomate e o caldo.",
+   "Cozinhe por 15 minutos e adicione o macarrão e o feijão.",
+   "Cozinhe até o macarrão ficar al dente e sirva."
+  ],
+  "tempo_texto": "40 min",
+  "rendimento": "4 porções",
+  "tempo": 40,
+  "alergenos": [
+   "gluten"
+  ],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 43,
+  "nome": "Frango Grelhado com Ervas",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "2 filés de peito de frango",
+   "Alecrim e tomilho frescos",
+   "2 dentes de alho",
+   "Azeite, sal e pimenta"
+  ],
+  "preparo": [
+   "Tempere o frango com ervas, alho amassado, sal e pimenta.",
+   "Grelhe em frigideira quente com um fio de azeite por 5-6 minutos de cada lado.",
+   "Deixe descansar 3 minutos antes de fatiar."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "2 porções",
+  "tempo": 25,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 44,
+  "nome": "Frango ao Curry com Legumes",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "500g de peito de frango em cubos",
+   "1 cebola picada",
+   "1 pimentão em tiras",
+   "1 colher (sopa) de curry em pó",
+   "Leite de coco"
+  ],
+  "preparo": [
+   "Doure o frango temperado.",
+   "Refogue a cebola e o pimentão, adicione o curry.",
+   "Junte o leite de coco e cozinhe por 10 minutos em fogo baixo."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "3 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 45,
+  "nome": "Escondidinho de Frango com Batata-Doce",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "2 batatas-doces cozidas e amassadas",
+   "300g de frango desfiado",
+   "1 cebola",
+   "Molho de tomate caseiro",
+   "Queijo para gratinar (opcional)"
+  ],
+  "preparo": [
+   "Refogue o frango desfiado com cebola e molho de tomate.",
+   "Em um refratário, faça uma camada de purê de batata-doce, o recheio e cubra com outra camada de purê.",
+   "Leve ao forno a 200°C por 15 minutos até dourar."
+  ],
+  "tempo_texto": "45 min",
+  "rendimento": "4 porções",
+  "tempo": 45,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 46,
+  "nome": "Filé de Frango Empanado na Aveia (Assado)",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "2 filés de frango",
+   "1 ovo batido",
+   "1/2 xícara de aveia triturada",
+   "Sal, alho em pó e páprica"
+  ],
+  "preparo": [
+   "Tempere o frango e passe no ovo e depois na aveia temperada.",
+   "Disponha em assadeira untada.",
+   "Asse a 200°C por 20-25 minutos, virando na metade do tempo."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "2 porções",
+  "tempo": 35,
+  "alergenos": [
+   "gluten",
+   "ovo"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 47,
+  "nome": "Carne Moída Refogada com Legumes",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "400g de carne moída magra",
+   "1 cenoura picada",
+   "1 abobrinha picada",
+   "1 cebola",
+   "Molho de tomate"
+  ],
+  "preparo": [
+   "Refogue a cebola e doure a carne moída.",
+   "Adicione a cenoura, abobrinha e molho de tomate.",
+   "Cozinhe em fogo baixo por 15 minutos."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "3 porções",
+  "tempo": 25,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 48,
+  "nome": "Iscas de Frango com Brócolis no Wok",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "300g de peito de frango em tiras",
+   "1 maço de brócolis em floretes",
+   "Molho shoyu light",
+   "Gengibre e alho",
+   "Óleo de gergelim"
+  ],
+  "preparo": [
+   "Salteie o frango em fogo alto até dourar.",
+   "Adicione o brócolis, alho e gengibre e salteie por mais 5 minutos.",
+   "Finalize com shoyu e um fio de óleo de gergelim."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "2 porções",
+  "tempo": 20,
+  "alergenos": [
+   "gluten",
+   "soja",
+   "gergelim"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 49,
+  "nome": "Patinho ao Molho de Mostarda e Mel",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "500g de patinho em cubos",
+   "2 colheres (sopa) de mostarda",
+   "1 colher (sopa) de mel",
+   "1 cebola fatiada",
+   "Caldo de carne"
+  ],
+  "preparo": [
+   "Doure a carne com a cebola.",
+   "Adicione mostarda, mel e caldo.",
+   "Cozinhe em fogo baixo até a carne ficar macia, cerca de 20 minutos."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "3 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 50,
+  "nome": "Frango Assado com Limão e Alecrim",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "1 frango inteiro pequeno ou 4 sobrecoxas",
+   "2 limões",
+   "Alecrim fresco",
+   "Alho, azeite, sal e pimenta"
+  ],
+  "preparo": [
+   "Tempere o frango com limão, alho, alecrim, sal e pimenta.",
+   "Disponha em assadeira e regue com azeite.",
+   "Asse a 200°C por 40-45 minutos até dourar."
+  ],
+  "tempo_texto": "50 min",
+  "rendimento": "4 porções",
+  "tempo": 50,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 51,
+  "nome": "Almôndegas de Carne ao Molho de Tomate",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "400g de carne moída magra",
+   "1 ovo",
+   "Farinha de aveia",
+   "Molho de tomate caseiro",
+   "Alho e cebola"
+  ],
+  "preparo": [
+   "Misture a carne com ovo, aveia, alho e cebola picados e tempere.",
+   "Molde as almôndegas e doure em frigideira.",
+   "Finalize cozinhando no molho de tomate por 15 minutos."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "4 porções",
+  "tempo": 35,
+  "alergenos": [
+   "gluten",
+   "ovo"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 52,
+  "nome": "Peito de Peru Grelhado com Legumes no Vapor",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "2 filés de peito de peru",
+   "Brócolis, cenoura e vagem",
+   "Azeite, ervas e limão"
+  ],
+  "preparo": [
+   "Grelhe o peito de peru temperado por 5 minutos de cada lado.",
+   "Cozinhe os legumes no vapor por 8 minutos.",
+   "Sirva com um fio de azeite e limão."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "2 porções",
+  "tempo": 25,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 53,
+  "nome": "Estrogonofe de Frango Fit",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "400g de frango em cubos",
+   "1 cebola",
+   "Cogumelos fatiados",
+   "Iogurte natural ou creme de leite light",
+   "Molho de tomate"
+  ],
+  "preparo": [
+   "Refogue a cebola e doure o frango.",
+   "Adicione os cogumelos e o molho de tomate.",
+   "Desligue o fogo e misture o iogurte antes de servir."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "3 porções",
+  "tempo": 30,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 54,
+  "nome": "Kafta Assada de Carne com Especiarias",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "400g de carne moída",
+   "Salsinha e hortelã picadas",
+   "Cominho, páprica e alho",
+   "1 cebola ralada"
+  ],
+  "preparo": [
+   "Misture a carne com as ervas, especiarias e cebola.",
+   "Molde em formato de espetinhos.",
+   "Asse a 200°C por 15-20 minutos, virando na metade."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "3 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 55,
+  "nome": "Frango Xadrez Fit",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "400g de peito de frango em cubos",
+   "Pimentão vermelho e amarelo",
+   "Cebola",
+   "Molho shoyu light e gengibre"
+  ],
+  "preparo": [
+   "Salteie o frango em fogo alto até dourar.",
+   "Adicione os pimentões e a cebola e salteie por mais 5 minutos.",
+   "Finalize com shoyu e gengibre ralado."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "3 porções",
+  "tempo": 25,
+  "alergenos": [
+   "gluten",
+   "soja"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 56,
+  "nome": "Lombo Suíno Assado com Ervas",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "700g de lombo suíno",
+   "Alecrim, tomilho e alho",
+   "Azeite, sal e pimenta"
+  ],
+  "preparo": [
+   "Tempere o lombo com ervas, alho, sal e pimenta.",
+   "Sele em frigideira quente de todos os lados.",
+   "Asse a 180°C por 35-40 minutos até cozinhar por completo."
+  ],
+  "tempo_texto": "50 min",
+  "rendimento": "4 porções",
+  "tempo": 50,
+  "alergenos": [],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 57,
+  "nome": "Wrap Integral de Frango com Salada",
+  "categoria": "Pratos Principais - Carnes e Aves",
+  "ingredientes": [
+   "2 tortillas integrais",
+   "200g de frango grelhado desfiado",
+   "Alface, tomate e cenoura ralada",
+   "Iogurte natural com mostarda"
+  ],
+  "preparo": [
+   "Prepare o molho misturando iogurte e mostarda.",
+   "Recheie as tortillas com o frango e os vegetais.",
+   "Regue com o molho, enrole e sirva."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "2 porções",
+  "tempo": 15,
+  "alergenos": [
+   "gluten",
+   "lactose"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 58,
+  "nome": "Salmão Grelhado com Aspargos",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "2 filés de salmão",
+   "1 maço de aspargos",
+   "Azeite, limão, sal e pimenta"
+  ],
+  "preparo": [
+   "Tempere o salmão com sal, pimenta e limão.",
+   "Grelhe o salmão por 4 minutos de cada lado.",
+   "Salteie os aspargos no azeite e sirva junto."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "2 porções",
+  "tempo": 20,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 59,
+  "nome": "Tilápia ao Forno com Legumes",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "2 filés de tilápia",
+   "Abobrinha, cenoura e tomate em rodelas",
+   "Azeite, ervas e limão"
+  ],
+  "preparo": [
+   "Disponha o peixe e os legumes em assadeira.",
+   "Tempere com azeite, ervas, sal e limão.",
+   "Asse a 200°C por 20 minutos."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "2 porções",
+  "tempo": 30,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 60,
+  "nome": "Camarão Salteado com Alho e Legumes",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "300g de camarão limpo",
+   "Alho picado",
+   "Pimentão e abobrinha em tiras",
+   "Azeite e limão"
+  ],
+  "preparo": [
+   "Salteie o alho no azeite até dourar levemente.",
+   "Adicione o camarão e os legumes e salteie por 5-7 minutos.",
+   "Finalize com suco de limão."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "2 porções",
+  "tempo": 15,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 61,
+  "nome": "Atum Selado com Gergelim",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "2 postas de atum fresco",
+   "Sementes de gergelim",
+   "Molho shoyu light",
+   "Óleo de gergelim"
+  ],
+  "preparo": [
+   "Passe as postas de atum nas sementes de gergelim.",
+   "Sele rapidamente em frigideira bem quente, 1 minuto de cada lado.",
+   "Fatie e sirva com shoyu."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "2 porções",
+  "tempo": 10,
+  "alergenos": [
+   "gluten",
+   "peixe",
+   "soja",
+   "gergelim"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 62,
+  "nome": "Moqueca de Peixe Leve",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "500g de filé de peixe branco",
+   "Leite de coco light",
+   "Pimentão, tomate e cebola",
+   "Coentro e azeite de dendê (opcional)"
+  ],
+  "preparo": [
+   "Refogue a cebola, o pimentão e o tomate.",
+   "Adicione o peixe e o leite de coco.",
+   "Cozinhe em fogo baixo por 15 minutos e finalize com coentro."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "3 porções",
+  "tempo": 35,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 63,
+  "nome": "Sardinha Assada com Limão e Alho",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "4 sardinhas limpas",
+   "Alho picado",
+   "Limão, azeite, sal e pimenta"
+  ],
+  "preparo": [
+   "Tempere as sardinhas com alho, limão, sal e pimenta.",
+   "Disponha em assadeira e regue com azeite.",
+   "Asse a 200°C por 15 minutos."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "2 porções",
+  "tempo": 20,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 64,
+  "nome": "Peixe ao Molho de Ervas com Purê de Couve-Flor",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "2 filés de peixe branco",
+   "Ervas finas",
+   "1 couve-flor cozida",
+   "Azeite e alho"
+  ],
+  "preparo": [
+   "Grelhe o peixe temperado com ervas.",
+   "Bata a couve-flor cozida com azeite e alho até formar purê.",
+   "Sirva o peixe sobre o purê."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "2 porções",
+  "tempo": 30,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 65,
+  "nome": "Ceviche de Peixe Branco",
+  "categoria": "Pratos Principais - Peixes e Frutos do Mar",
+  "ingredientes": [
+   "300g de peixe branco fresco em cubos",
+   "Suco de 4 limões",
+   "Cebola roxa fatiada",
+   "Coentro e pimenta a gosto"
+  ],
+  "preparo": [
+   "Misture o peixe com o suco de limão e leve à geladeira por 15 minutos.",
+   "Adicione a cebola roxa e o coentro.",
+   "Tempere com sal e pimenta e sirva bem gelado."
+  ],
+  "tempo_texto": "20 min + descanso",
+  "rendimento": "2 porções",
+  "tempo": 20,
+  "alergenos": [
+   "peixe"
+  ],
+  "vegetariana": false,
+  "vegana": false
+ },
+ {
+  "id": 66,
+  "nome": "Curry de Grão-de-Bico e Espinafre",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 xícaras de grão-de-bico cozido",
+   "1 maço de espinafre",
+   "Leite de coco",
+   "Curry em pó, cebola e alho"
+  ],
+  "preparo": [
+   "Refogue a cebola e o alho, adicione o curry.",
+   "Junte o grão-de-bico e o leite de coco, cozinhe por 10 minutos.",
+   "Adicione o espinafre no final e deixe murchar."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "3 porções",
+  "tempo": 25,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 67,
+  "nome": "Hambúrguer de Lentilha",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 xícaras de lentilha cozida",
+   "1/2 cebola picada",
+   "Farinha de aveia",
+   "Cominho, alho e páprica"
+  ],
+  "preparo": [
+   "Amasse a lentilha e misture com os demais ingredientes.",
+   "Molde os hambúrgueres.",
+   "Grelhe em frigideira antiaderente com um fio de azeite, 4 minutos de cada lado."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "4 hambúrgueres",
+  "tempo": 35,
+  "alergenos": [
+   "gluten"
+  ],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 68,
+  "nome": "Risoto de Cogumelos Integral",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "1 xícara de arroz integral",
+   "Cogumelos fatiados",
+   "1 cebola",
+   "Caldo de legumes",
+   "Parmesão ralado (opcional)"
+  ],
+  "preparo": [
+   "Refogue a cebola e os cogumelos.",
+   "Adicione o arroz e vá acrescentando caldo quente aos poucos, mexendo sempre.",
+   "Cozinhe até o arroz ficar macio e finalize com parmesão."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "3 porções",
+  "tempo": 35,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 69,
+  "nome": "Berinjela Recheada com Legumes e Quinoa",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 berinjelas",
+   "1 xícara de quinoa cozida",
+   "Tomate, cebola e pimentão picados",
+   "Azeite e ervas"
+  ],
+  "preparo": [
+   "Corte as berinjelas ao meio e retire parte da polpa.",
+   "Refogue a polpa com os legumes e misture com a quinoa.",
+   "Recheie as berinjelas e asse a 200°C por 20 minutos."
+  ],
+  "tempo_texto": "40 min",
+  "rendimento": "2 porções",
+  "tempo": 40,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 70,
+  "nome": "Tofu Grelhado com Molho de Gergelim",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "300g de tofu firme em cubos",
+   "Molho shoyu light",
+   "Pasta de gergelim (tahine)",
+   "Gengibre e alho"
+  ],
+  "preparo": [
+   "Grelhe o tofu em frigideira antiaderente até dourar.",
+   "Misture shoyu, tahine, gengibre e alho para o molho.",
+   "Regue o tofu com o molho antes de servir."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "2 porções",
+  "tempo": 20,
+  "alergenos": [
+   "gluten",
+   "soja",
+   "gergelim"
+  ],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 71,
+  "nome": "Wok de Legumes com Molho de Soja",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "Brócolis, cenoura, pimentão e vagem",
+   "Alho e gengibre",
+   "Molho shoyu light",
+   "Óleo de gergelim"
+  ],
+  "preparo": [
+   "Salteie o alho e o gengibre no óleo.",
+   "Adicione os legumes e salteie em fogo alto por 5-7 minutos.",
+   "Finalize com o shoyu."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "2 porções",
+  "tempo": 15,
+  "alergenos": [
+   "gluten",
+   "soja",
+   "gergelim"
+  ],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 72,
+  "nome": "Chili Vegetariano de Feijão Preto",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 xícaras de feijão preto cozido",
+   "1 pimentão picado",
+   "Milho",
+   "Molho de tomate",
+   "Cominho e páprica"
+  ],
+  "preparo": [
+   "Refogue a cebola e o pimentão.",
+   "Adicione o feijão, o milho, o molho de tomate e as especiarias.",
+   "Cozinhe em fogo baixo por 20 minutos."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "4 porções",
+  "tempo": 35,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 73,
+  "nome": "Abobrinha Recheada com Ricota e Ervas",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 abobrinhas",
+   "200g de ricota",
+   "Ervas frescas picadas",
+   "Azeite, sal e pimenta"
+  ],
+  "preparo": [
+   "Corte as abobrinhas ao meio e retire parte da polpa.",
+   "Misture a ricota com as ervas, sal e pimenta.",
+   "Recheie e asse a 200°C por 20 minutos."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "2 porções",
+  "tempo": 35,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 74,
+  "nome": "Macarrão de Abobrinha ao Molho Pesto",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 abobrinhas em espiral (espaguete de abobrinha)",
+   "Manjericão, castanhas e alho",
+   "Azeite e parmesão"
+  ],
+  "preparo": [
+   "Bata o manjericão, castanhas, alho, azeite e parmesão para o pesto.",
+   "Salteie rapidamente o espaguete de abobrinha em frigideira quente por 2 minutos.",
+   "Misture com o pesto e sirva imediatamente."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "2 porções",
+  "tempo": 15,
+  "alergenos": [
+   "gluten",
+   "lactose",
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 75,
+  "nome": "Falafel Assado",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 xícaras de grão-de-bico cru hidratado",
+   "Salsinha, coentro e cebola",
+   "Cominho e alho"
+  ],
+  "preparo": [
+   "Bata o grão-de-bico com as ervas, cebola, alho e cominho no processador.",
+   "Molde pequenas bolinhas.",
+   "Asse a 200°C por 20-25 minutos, virando na metade."
+  ],
+  "tempo_texto": "40 min",
+  "rendimento": "4 porções",
+  "tempo": 40,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 76,
+  "nome": "Arroz de Couve-Flor com Legumes",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "1 couve-flor triturada tipo arroz",
+   "Ervilha, cenoura e milho",
+   "Ovo, alho e shoyu light"
+  ],
+  "preparo": [
+   "Refogue o alho e os legumes.",
+   "Adicione a couve-flor triturada e cozinhe por 5 minutos.",
+   "Empurre para a lateral, adicione o ovo mexido e misture tudo com o shoyu."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "3 porções",
+  "tempo": 20,
+  "alergenos": [
+   "gluten",
+   "ovo",
+   "soja"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 77,
+  "nome": "Panqueca de Grão-de-Bico (Socca)",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "1 xícara de farinha de grão-de-bico",
+   "1 xícara de água",
+   "Azeite, sal e ervas"
+  ],
+  "preparo": [
+   "Misture a farinha com água, azeite e temperos até formar massa lisa.",
+   "Deixe descansar 15 minutos.",
+   "Despeje em frigideira quente untada e doure dos dois lados."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "2 porções",
+  "tempo": 25,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 78,
+  "nome": "Curry de Batata-Doce e Feijão Preto",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "2 batatas-doces em cubos",
+   "1 xícara de feijão preto cozido",
+   "Leite de coco",
+   "Curry em pó, cebola e alho"
+  ],
+  "preparo": [
+   "Refogue a cebola e o alho e adicione o curry.",
+   "Junte a batata-doce e o leite de coco, cozinhe até amaciar (cerca de 15 minutos).",
+   "Adicione o feijão preto e cozinhe por mais 5 minutos."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "3 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 79,
+  "nome": "Espetinhos de Legumes Grelhados",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "Abobrinha, pimentão, cebola e tomate cereja",
+   "Azeite, ervas, sal e pimenta"
+  ],
+  "preparo": [
+   "Corte os legumes em pedaços e monte nos espetos.",
+   "Tempere com azeite e ervas.",
+   "Grelhe por 10-12 minutos, virando ocasionalmente."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "3 porções",
+  "tempo": 20,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 80,
+  "nome": "Omelete de Forno com Legumes (Vegetariano)",
+  "categoria": "Pratos Vegetarianos e Veganos",
+  "ingredientes": [
+   "6 ovos",
+   "Espinafre, tomate e pimentão picados",
+   "Queijo cottage ou ricota",
+   "Sal e ervas"
+  ],
+  "preparo": [
+   "Bata os ovos e misture com os legumes picados e o queijo.",
+   "Despeje em assadeira untada.",
+   "Asse a 180°C por 20-25 minutos até firmar."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "4 porções",
+  "tempo": 30,
+  "alergenos": [
+   "lactose",
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 81,
+  "nome": "Chips de Batata-Doce Assados",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "1 batata-doce fatiada bem fina",
+   "Azeite, sal e páprica"
+  ],
+  "preparo": [
+   "Tempere as fatias com azeite, sal e páprica.",
+   "Disponha em assadeira sem sobrepor.",
+   "Asse a 180°C por 20-25 minutos, virando na metade, até ficarem crocantes."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "2 porções",
+  "tempo": 30,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 82,
+  "nome": "Hummus Caseiro com Palitos de Legumes",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "2 xícaras de grão-de-bico cozido",
+   "Tahine, alho e limão",
+   "Azeite e cominho",
+   "Cenoura e pepino em palitos"
+  ],
+  "preparo": [
+   "Bata o grão-de-bico com tahine, alho, limão, azeite e cominho até ficar cremoso.",
+   "Sirva com os palitos de legumes."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "4 porções",
+  "tempo": 10,
+  "alergenos": [
+   "gergelim"
+  ],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 83,
+  "nome": "Bolinho de Banana com Aveia (Assado)",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "2 bananas amassadas",
+   "1 xícara de aveia",
+   "1 ovo",
+   "Canela e fermento"
+  ],
+  "preparo": [
+   "Misture todos os ingredientes até formar massa homogênea.",
+   "Distribua em forminhas de cupcake.",
+   "Asse a 180°C por 18-20 minutos."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "8 unidades",
+  "tempo": 25,
+  "alergenos": [
+   "gluten",
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 84,
+  "nome": "Mix de Castanhas e Frutas Secas",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "Castanha-do-pará, amêndoas e nozes",
+   "Damasco e uva-passa secos"
+  ],
+  "preparo": [
+   "Misture todas as castanhas e frutas secas em um pote.",
+   "Porcione em pequenas quantidades para consumo diário."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "4 porções",
+  "tempo": 5,
+  "alergenos": [
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 85,
+  "nome": "Ovos Cozidos Temperados",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "4 ovos",
+   "Páprica, sal e azeite"
+  ],
+  "preparo": [
+   "Cozinhe os ovos por 9-10 minutos, depois descasque.",
+   "Corte ao meio e tempere com sal, páprica e um fio de azeite."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "2 porções",
+  "tempo": 15,
+  "alergenos": [
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 86,
+  "nome": "Bolinho de Espinafre e Queijo (Assado)",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "1 xícara de espinafre picado",
+   "1 ovo",
+   "1/2 xícara de queijo cottage",
+   "Farinha de aveia e ervas"
+  ],
+  "preparo": [
+   "Misture todos os ingredientes até formar massa.",
+   "Distribua em forminhas untadas.",
+   "Asse a 180°C por 20 minutos."
+  ],
+  "tempo_texto": "30 min",
+  "rendimento": "6 unidades",
+  "tempo": 30,
+  "alergenos": [
+   "gluten",
+   "lactose",
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 87,
+  "nome": "Palitos de Pepino com Pasta de Grão-de-Bico e Ervas",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "1 pepino em palitos",
+   "1 xícara de grão-de-bico cozido",
+   "Ervas frescas, azeite e limão"
+  ],
+  "preparo": [
+   "Bata o grão-de-bico com ervas, azeite e limão até formar pasta.",
+   "Sirva com os palitos de pepino."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "2 porções",
+  "tempo": 10,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 88,
+  "nome": "Iogurte com Mel e Nozes",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "1 pote de iogurte natural",
+   "1 colher (chá) de mel",
+   "Nozes picadas"
+  ],
+  "preparo": [
+   "Coloque o iogurte em uma tigela.",
+   "Regue com mel e finalize com as nozes picadas."
+  ],
+  "tempo_texto": "5 min",
+  "rendimento": "1 porção",
+  "tempo": 5,
+  "alergenos": [
+   "lactose",
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 89,
+  "nome": "Barrinha de Cereal Caseira",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "2 xícaras de aveia",
+   "1/2 xícara de mel",
+   "Castanhas picadas",
+   "Frutas secas picadas"
+  ],
+  "preparo": [
+   "Misture todos os ingredientes em uma tigela.",
+   "Pressione firmemente em uma forma retangular forrada.",
+   "Leve à geladeira por 2 horas e corte em barras."
+  ],
+  "tempo_texto": "30 min + geladeira",
+  "rendimento": "8 unidades",
+  "tempo": 30,
+  "alergenos": [
+   "gluten",
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 90,
+  "nome": "Pipoca Feita em Panela com Azeite",
+  "categoria": "Lanches e Snacks",
+  "ingredientes": [
+   "1/2 xícara de milho de pipoca",
+   "1 colher (sopa) de azeite",
+   "Sal a gosto"
+  ],
+  "preparo": [
+   "Aqueça o azeite em panela com tampa.",
+   "Adicione o milho, tampe e deixe estourar em fogo médio, sacudindo a panela.",
+   "Tempere com sal e sirva."
+  ],
+  "tempo_texto": "10 min",
+  "rendimento": "2 porções",
+  "tempo": 10,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 91,
+  "nome": "Arroz Integral Soltinho",
+  "categoria": "Acompanhamentos",
+  "ingredientes": [
+   "1 xícara de arroz integral",
+   "2 xícaras de água",
+   "1 dente de alho",
+   "Sal e azeite"
+  ],
+  "preparo": [
+   "Refogue o alho no azeite e adicione o arroz.",
+   "Junte a água e o sal e cozinhe em fogo baixo com a panela tampada por 30 minutos.",
+   "Deixe descansar 5 minutos antes de servir."
+  ],
+  "tempo_texto": "35 min",
+  "rendimento": "4 porções",
+  "tempo": 35,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 92,
+  "nome": "Purê de Batata-Doce",
+  "categoria": "Acompanhamentos",
+  "ingredientes": [
+   "3 batatas-doces",
+   "1 fio de azeite",
+   "Sal e noz-moscada"
+  ],
+  "preparo": [
+   "Cozinhe as batatas-doces até ficarem macias.",
+   "Amasse com azeite, sal e noz-moscada.",
+   "Sirva quente."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "4 porções",
+  "tempo": 25,
+  "alergenos": [
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 93,
+  "nome": "Legumes Salteados na Manteiga de Ervas",
+  "categoria": "Acompanhamentos",
+  "ingredientes": [
+   "Brócolis, cenoura e vagem",
+   "1 colher (sopa) de manteiga",
+   "Ervas frescas picadas"
+  ],
+  "preparo": [
+   "Cozinhe os legumes no vapor até ficarem al dente.",
+   "Salteie rapidamente na manteiga com as ervas.",
+   "Sirva imediatamente."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "4 porções",
+  "tempo": 15,
+  "alergenos": [
+   "lactose"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 94,
+  "nome": "Quinoa com Limão e Ervas",
+  "categoria": "Acompanhamentos",
+  "ingredientes": [
+   "1 xícara de quinoa",
+   "2 xícaras de água ou caldo",
+   "Suco de limão e ervas frescas"
+  ],
+  "preparo": [
+   "Cozinhe a quinoa no caldo até absorver todo o líquido, cerca de 15 minutos.",
+   "Tempere com limão e ervas frescas antes de servir."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "4 porções",
+  "tempo": 20,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 95,
+  "nome": "Farofa Integral de Legumes",
+  "categoria": "Acompanhamentos",
+  "ingredientes": [
+   "1 xícara de farinha de mandioca integral",
+   "Cenoura e pimentão picados",
+   "Cebola e azeite"
+  ],
+  "preparo": [
+   "Refogue a cebola, cenoura e pimentão no azeite.",
+   "Adicione a farinha aos poucos, mexendo sempre.",
+   "Tempere com sal e sirva."
+  ],
+  "tempo_texto": "20 min",
+  "rendimento": "4 porções",
+  "tempo": 20,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 96,
+  "nome": "Mousse de Chocolate com Abacate",
+  "categoria": "Sobremesas Saudáveis",
+  "ingredientes": [
+   "1 abacate maduro",
+   "3 colheres (sopa) de cacau em pó",
+   "2 colheres (sopa) de mel"
+  ],
+  "preparo": [
+   "Bata todos os ingredientes no liquidificador até ficar cremoso.",
+   "Leve à geladeira por 1 hora antes de servir."
+  ],
+  "tempo_texto": "10 min + geladeira",
+  "rendimento": "3 porções",
+  "tempo": 10,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 97,
+  "nome": "Picolé de Frutas Naturais",
+  "categoria": "Sobremesas Saudáveis",
+  "ingredientes": [
+   "2 xícaras de fruta picada (manga, morango ou abacaxi)",
+   "1/2 xícara de água ou suco natural"
+  ],
+  "preparo": [
+   "Bata a fruta com a água ou o suco até ficar homogêneo.",
+   "Distribua em forminhas de picolé.",
+   "Congele por pelo menos 4 horas."
+  ],
+  "tempo_texto": "10 min + congelador",
+  "rendimento": "6 unidades",
+  "tempo": 10,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 98,
+  "nome": "Bolo de Banana Fit (sem açúcar refinado)",
+  "categoria": "Sobremesas Saudáveis",
+  "ingredientes": [
+   "3 bananas amassadas",
+   "2 ovos",
+   "1 xícara de farinha de aveia",
+   "1 colher (sopa) de mel",
+   "Canela e fermento"
+  ],
+  "preparo": [
+   "Misture todos os ingredientes até formar massa homogênea.",
+   "Despeje em forma untada.",
+   "Asse a 180°C por 30-35 minutos."
+  ],
+  "tempo_texto": "40 min",
+  "rendimento": "8 porções",
+  "tempo": 40,
+  "alergenos": [
+   "gluten",
+   "ovo"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ },
+ {
+  "id": 99,
+  "nome": "Brigadeiro Fit de Cacau e Banana",
+  "categoria": "Sobremesas Saudáveis",
+  "ingredientes": [
+   "2 bananas maduras amassadas",
+   "3 colheres (sopa) de cacau em pó",
+   "Coco ralado para enrolar"
+  ],
+  "preparo": [
+   "Misture a banana com o cacau até formar uma pasta.",
+   "Leve ao fogo baixo por 5 minutos mexendo sempre, até engrossar.",
+   "Deixe esfriar, enrole em bolinhas e passe no coco ralado."
+  ],
+  "tempo_texto": "15 min",
+  "rendimento": "10 unidades",
+  "tempo": 15,
+  "alergenos": [],
+  "vegetariana": true,
+  "vegana": true
+ },
+ {
+  "id": 100,
+  "nome": "Maçã Assada com Canela",
+  "categoria": "Sobremesas Saudáveis",
+  "ingredientes": [
+   "2 maçãs",
+   "Canela em pó",
+   "1 colher (chá) de mel",
+   "Nozes picadas (opcional)"
+  ],
+  "preparo": [
+   "Retire o miolo das maçãs e disponha em assadeira.",
+   "Polvilhe canela, regue com mel e adicione as nozes.",
+   "Asse a 180°C por 20 minutos até ficarem macias."
+  ],
+  "tempo_texto": "25 min",
+  "rendimento": "2 porções",
+  "tempo": 25,
+  "alergenos": [
+   "oleaginosas"
+  ],
+  "vegetariana": true,
+  "vegana": false
+ }
+]
