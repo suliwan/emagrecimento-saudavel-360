@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Emagrecimento Saudável 360°</title>
+<title>Emagrecimento Saud├ível 360┬░</title>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <style>
 :root{--g:#1f4d3a;--gs:#dcebe2;--bg:#faf9f6;--l:#e6e3dc;--t:#2b2f2d;--m:#5d6762}
@@ -167,11 +167,57 @@ async function qNext(){qCollect();
  S.prefs={...Q,refeicoes:+Q.refeicoes,tempo:+Q.tempo};delete S.prefs.ciente;S.plan=null;await persist();go("painel")}
 const A={go:id=>go(id),demo(){S.demo=true;const d=JSON.parse(localStorage.getItem("e360_demo")||"{}");S.prefs=d.prefs||null;S.favs=d.favs||[];go(S.prefs?"painel":"quest")},
  signup(){S.mode="signup";go("entrar")},mode(id){S.mode=id;render()},
- async auth(){if(!sb)return;const e=$("#em").value.trim(),p=$("#pw")?.value;if(!e||(S.mode!=="reset"&&!p))return toast("Preencha e-mail e senha.",1);
-  const r=S.mode==="signup"?await sb.auth.signUp({email:e,password:p}):S.mode==="reset"?await sb.auth.resetPasswordForEmail(e):await sb.auth.signInWithPassword({email:e,password:p});
-  if(r.error)return toast("Não foi possível concluir. Verifique os dados e tente novamente.",1);
-  if(S.mode==="signup")toast("Conta criada. Confirme seu e-mail, se solicitado.");else if(S.mode==="reset")toast("Se o e-mail existir, enviaremos o link de recuperação.");
-  else{await setUser(r.data.user);go(S.acesso?(S.prefs?"painel":"quest"):"entrar")}},
+ 
+async auth(){
+  if(!sb)return;
+  const modo=S.mode;
+  const e=$("#em").value.trim().toLowerCase();
+  const p=$("#pw")?.value;
+
+  if(!e||(modo!=="reset"&&!p))
+    return toast("Preencha e-mail e senha.",1);
+
+  const r=modo==="signup"
+    ?await sb.auth.signUp({email:e,password:p})
+    :modo==="reset"
+      ?await sb.auth.resetPasswordForEmail(e)
+      :await sb.auth.signInWithPassword({email:e,password:p});
+
+  if(r.error)
+    return toast("Não foi possível concluir. Verifique os dados e tente novamente.",1);
+
+  if(modo==="reset"){
+    toast("Se o e-mail existir, enviaremos o link de recuperação.");
+    return;
+  }
+
+  if(modo==="signup"&&!r.data.session){
+    toast("Conta criada! Confirme seu e-mail e depois entre na sua conta.");
+    return;
+  }
+
+  const usuario=r.data.user;
+  if(!usuario)
+    return toast("Não foi possível identificar sua conta.",1);
+
+  try{
+    const {data,error}=await sb.functions.invoke("resgatar-acesso");
+    if(error)console.error("Erro ao verificar compra:",error);
+    else console.log("Resultado da compra:",data);
+  }catch(erro){
+    console.error("Falha ao verificar compra:",erro);
+  }
+
+  await setUser(usuario);
+
+  if(S.acesso){
+    toast("Acesso verificado com sucesso!");
+    go(S.prefs?"painel":"quest");
+  }else{
+    go("entrar");
+  }
+},
+
  async out(){if(sb&&S.user)await sb.auth.signOut();S={...S,user:null,demo:false,acesso:null,prefs:null,favs:[]};go("home")},
  qnext:qNext,qback(){qCollect();qs--;render()},edit(){Q={...S.prefs,refeicoes:String(S.prefs.refeicoes),tempo:String(S.prefs.tempo)};qs=0;go("quest")},
  gerar(){gerar();render()},dia(id){S.dia=+id;render()},plist(){S.lista=!S.lista;render()},print(){window.print()},
