@@ -126,7 +126,7 @@ const V={
 home:()=>`<section class="hero"><h1>Organize suas refeições da semana com 100 receitas práticas</h1><p class="sub">Catálogo pesquisável, sugestões de refeições conforme suas preferências, lista de compras e acompanhamento, tudo em um só lugar.</p><div class="row"><button class="p" data-a="go" data-id="entrar">Entrar</button><button data-a="signup">Criar conta</button><button class="link" data-a="demo">Ver demonstração</button></div></section>
 <div class="g"><div class="box"><b>Catálogo de ${R.length} receitas</b><p>Busca por nome, categoria e tempo.</p></div><div class="box"><b>Planejamento semanal</b><p>Sugestões que respeitam preferências e restrições informadas.</p></div><div class="box"><b>Lista de compras</b><p>Ingredientes reunidos das receitas escolhidas.</p></div></div>`,
 entrar:()=>{const u=S.user&&!S.acesso;return`<h2>${S.mode==="signup"?"Criar conta":S.mode==="reset"?"Recuperar senha":"Entrar"}</h2>${u?`<div class="note">Sua conta está ativa, mas ainda não há acesso liberado ao produto. Se você já comprou, aguarde a confirmação ou contate o suporte.</div>`:""}
-${sb?`<div style="max-width:380px"><label>E-mail<input type="email" id="em" autocomplete="email"></label>${S.mode==="reset"?"":`<label>Senha<input type="password" id="pw" autocomplete="current-password"></label>`}<div class="row"><button class="p" data-a="auth">${S.mode==="signup"?"Criar conta":S.mode==="reset"?"Enviar link":"Entrar"}</button><button class="link" data-a="mode" data-id="${S.mode==="login"?"signup":"login"}">${S.mode==="login"?"Criar conta":"Já tenho conta"}</button>${S.mode==="login"?`<button class="link" data-a="mode" data-id="reset">Esqueci a senha</button>`:""}</div></div>`:`<div class="note">Supabase não configurado: login real indisponível. Use o modo demonstração (dados fictícios, sem autenticação real).</div>`}
+${sb?`<div style="max-width:380px"><label>E-mail<input type="email" id="em" autocomplete="email"></label>${S.mode==="reset"?"":`<label>Senha<input type="password" id="pw" autocomplete="current-password"></label>`}<div class="row"><button class="p" data-a="auth">${S.mode==="signup"?"Criar conta":S.mode==="reset"?"Enviar link":"Entrar"}</button>${S.mode==="signup"?`<button class="link" data-a="resend">Reenviar e-mail de confirmação</button>`:""}<button class="link" data-a="mode" data-id="${S.mode==="login"?"signup":"login"}">${S.mode==="login"?"Criar conta":"Já tenho conta"}</button>${S.mode==="login"?`<button class="link" data-a="mode" data-id="reset">Esqueci a senha</button>`:""}</div></div>`:`<div class="note">Supabase não configurado: login real indisponível. Use o modo demonstração (dados fictícios, sem autenticação real).</div>`}
 <p><button data-a="demo">Entrar no modo demonstração</button></p>`},
 quest:()=>`<div class="bar" role="progressbar" aria-valuenow="${qs+1}" aria-valuemax="5"><i style="width:${(qs+1)*20}%"></i></div><p>Etapa ${qs+1} de 5</p><form id="qf" style="max-width:520px" onsubmit="return false">${QS[qs]()}</form><p id="qe" role="alert" style="color:#9b2c2c"></p><div class="row">${qs?`<button data-a="qback">Voltar</button>`:""}<button class="p" data-a="qnext">${qs==4?"Concluir":"Continuar"}</button></div>`,
 painel:()=>{const p=S.prefs,tr=S.hist.filter(h=>h.tipo==="experimentada").length,cc=S.hist.filter(h=>h.tipo==="concluida").length;
@@ -223,7 +223,25 @@ async auth(){
     go("entrar");
   }
 },
+ async resend(){
+   const e=$("#em")?.value.trim();
 
+   if(!e)
+     return toast("Informe o e-mail usado no cadastro.",1);
+
+   const {error}=await sb.auth.resend({
+     type:"signup",
+     email:e,
+     options:{
+       emailRedirectTo:"https://suliwan.github.io/emagrecimento-saudavel-360/"
+     }
+   });
+
+   if(error)
+     return toast("Não foi possível reenviar. Verifique o e-mail e tente novamente.",1);
+
+   toast("Solicitação enviada! Confira sua caixa de entrada e a pasta de spam.");
+ },
  async out(){if(sb&&S.user)await sb.auth.signOut();S={...S,user:null,demo:false,acesso:null,prefs:null,favs:[]};go("home")},
  qnext:qNext,qback(){qCollect();qs--;render()},edit(){Q={...S.prefs,refeicoes:String(S.prefs.refeicoes),tempo:String(S.prefs.tempo)};qs=0;go("quest")},
  gerar(){gerar();render()},dia(id){S.dia=+id;render()},plist(){S.lista=!S.lista;render()},print(){window.print()},
