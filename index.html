@@ -178,7 +178,13 @@ async auth(){
     return toast("Preencha e-mail e senha.",1);
 
   const r=modo==="signup"
-    ?await sb.auth.signUp({email:e,password:p})
+    ?await sb.auth.signUp({
+  email:e,
+  password:p,
+  options:{
+    emailRedirectTo:"https://suliwan.github.io/emagrecimento-saudavel-360/"
+  }
+})
     :modo==="reset"
       ?await sb.auth.resetPasswordForEmail(e)
       :await sb.auth.signInWithPassword({email:e,password:p});
